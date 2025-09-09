@@ -6,4 +6,4 @@ The second file contains the code for Processing IDE to show the radar within th
 
 DEMO
 
-![Demo](radar_ultrasonic/Demo.gif)
+![Demo](radar_ultrasonic/demo.png)
